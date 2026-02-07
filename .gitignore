@@ -1,0 +1,19 @@
+
+# Node modules
+node_modules/
+
+# IDE files
+.idea/
+*.iml
+
+# Reports & logs
+reports/
+*.log
+
+# Local SEO data
+data/urls.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
