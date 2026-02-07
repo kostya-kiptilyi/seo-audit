@@ -2,7 +2,7 @@
 import { Page } from '@playwright/test';
 import { checkTitle } from '../checks/title.check';
 import { checkH1 } from '../checks/h1.check';
-import { checkH2 } from '../checks/h2.check'; // ✅ H2 check added
+import { checkH2 } from '../checks/h2.check';
 import { checkMetaDescription } from '../checks/meta.check';
 import { checkCanonical } from '../checks/canonical.check';
 
